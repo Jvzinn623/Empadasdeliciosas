@@ -1,0 +1,25 @@
+#empadas{
+    background-color: rgb(200, 138, 45);
+    color: rgb(214, 183, 95);
+    text-align: center;
+    padding: 10px;
+}#delicia a{
+    text-decoration: none;
+    color: rgb(9, 96, 172);
+}#delicia{
+    text-align: center;
+    background-color: rgb(195, 198, 200);
+    padding: 15px;
+}#deliciosas{
+    color: #d3ac35;
+    padding: 10px;
+    background-color: rgb(212, 210, 165);
+    margin-left: 150px;
+    margin-right: 150px;
+}#vitor{
+    color: black;
+    padding: 10px;
+    background-color: rgb(212, 210, 165);
+    margin-left: 150px;
+    margin-right: 150px;
+}
